@@ -1,0 +1,3 @@
+[submodule "HAL-APPLICATION"]
+	path = HAL-APPLICATION
+	url = git@github.com:Coffee4Cat/HAL-APPLICATION.git
